@@ -441,15 +441,6 @@
         "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=376222033&s=100&t=1547904810"
     },
     {
-        "time": "2025-5-23 14:49:06",
-        "expiryTime": "2025-06-23 14:49:06",
-        "package": "月卡",
-        "userName": "chenpaopao",
-        "fullName": "陈跑跑",
-        "email": "926383952@qq.com",
-        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=926383952&s=100&t=1547904810"
-    },
-    {
         "time": "2025-5-25 18:29:31",
         "expiryTime": "2026-05-25 18:29:31",
         "package": "一年卡",
@@ -612,12 +603,48 @@
         "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=xiaoxiong&s=100&t=1547904810"
     },
     {
-        "time": "2025-6-19 17:15:20",
-        "expiryTime": "2025-06-20 17:15:20",
-        "package": "试玩卡",
-        "userName": "jiushouyigemeng",
-        "fullName": "旧守一个梦",
-        "email": "910769909@qq.com",
-        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=910769909&s=100&t=1547904810"
+        "time": "2025-6-24 19:06:58",
+        "expiryTime": "2025-12-24 19:06:58",
+        "package": "半年卡",
+        "userName": "duannian",
+        "fullName": "断念",
+        "email": "791349123@qq.com",
+        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=791349123&s=100&t=1547904810"
+    },
+    {
+        "time": "2025-6-25 16:19:34",
+        "expiryTime": "2025-07-25 16:19:34",
+        "package": "月卡",
+        "userName": "chenpaopao",
+        "fullName": "陈跑跑",
+        "email": "926383952@qq.com",
+        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=926383952&s=100&t=1547904810"
+    },
+    {
+        "time": "2025-6-25 18:57:17",
+        "expiryTime": "2040-06-25 18:57:17",
+        "package": "终身卡",
+        "userName": "shiwanzhanghao",
+        "fullName": "试玩账号",
+        "email": "060513120@qq.com",
+        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=060513120&s=100&t=1547904810"
+    },
+    {
+        "time": "2025-6-25 23:55:43",
+        "expiryTime": "2025-12-25 23:55:43",
+        "package": "半年卡",
+        "userName": "ejunfuliman",
+        "fullName": "俄军弗里曼",
+        "email": "3255610751@qq.com",
+        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=3255610751&s=100&t=1547904810"
+    },
+    {
+        "time": "2025-6-28 18:42:01",
+        "expiryTime": "2026-06-28 18:42:01",
+        "package": "一年卡",
+        "userName": "yiwanqingchou",
+        "fullName": "一挽清愁",
+        "email": "515466989@qq.com",
+        "qq_avatar": "https://q1.qlogo.cn/g?b=qq&nk=515466989&s=100&t=1547904810"
     }
 ]
